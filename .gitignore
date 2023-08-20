@@ -1,6 +1,7 @@
 instance
 FakePinterest Layout
-
+chave.py
+flask-wtf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
